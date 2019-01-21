@@ -1,2 +1,2 @@
-## An ongoing project I am working as a volunteer.
-DNA alignment project.
+## DNA alignment project.
+An ongoing project I am working as a volunteer.
